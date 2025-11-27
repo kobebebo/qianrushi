@@ -1,0 +1,1 @@
+使用这里的"link.lds" 替换C:\Users\${USER_NAME}\.platformio\packages\framework-wd-riscv-sdk\board\nexys_a7_eh1目录下的。该目录下的call main也需要改成call entry 
