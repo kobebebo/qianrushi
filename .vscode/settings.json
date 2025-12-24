@@ -70,12 +70,12 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-	"board.h": "c",
-	"psp_api.h": "c",
-	"rtthread.h": "c",
-	"appdef.h": "c",
-	"bsp_version.h": "c",
-	"type_traits": "c",
-	"typeinfo": "c"
-}
+    "board.h": "c",
+    "psp_api.h": "c",
+    "rtthread.h": "c",
+    "appdef.h": "c",
+    "bsp_version.h": "c",
+    "type_traits": "c",
+    "typeinfo": "c"
+  }
 }
